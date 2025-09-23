@@ -18,7 +18,7 @@ spec:
   spec:
    containers:
    - name: javawebappcontainer
-     image: armcool004/spring-boot-app
+     image: armcool004/spring-boot-rest-api-app
      ports:
      - containerPort: 8080
 ---
